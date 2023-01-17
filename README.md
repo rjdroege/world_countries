@@ -1,8 +1,12 @@
 # WorldCountries
 
-TODO: Delete this and the text below, and describe your gem
+ TODO: World Countries
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/world_countries`. To experiment with that code, run `bin/console` for an interactive prompt.
+ TODO: This is a brief summary of every country in the world.
+
+ TODO: CLI Feature 1
+ TODO: CLI Feature 2
+ TODO: CLI Feature 3
 
 ## Installation
 
